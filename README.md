@@ -13,11 +13,8 @@
 
 ## 🎥 Demo Video
 
-<p align="center">
-  <video src="assets/Demo.mp4" controls width="800">
-    Browser Anda tidak mendukung video tag.
-  </video>
-</p>
+[Klik di sini untuk menonton demo](assets/Demo.mp4)
+
 
 
 ---
