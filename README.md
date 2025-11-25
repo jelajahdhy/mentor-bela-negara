@@ -30,8 +30,7 @@
 - [Streamlit](https://streamlit.io/) – untuk antarmuka web interaktif
 - [LangChain](https://python.langchain.com/) – manajemen percakapan & prompt
 - [Google Gemini API](https://ai.google.dev/) – Large Language Model
-- (Opsional) `python-dotenv` – manajemen API key
-
+  
 ---
 
 ## 🚀 Cara Menjalankan Secara Lokal
