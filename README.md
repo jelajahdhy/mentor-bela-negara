@@ -11,6 +11,17 @@
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <video src="assets/Demo.mp4" controls width="800">
+    Browser Anda tidak mendukung video tag.
+  </video>
+</p>
+
+
+---
+
 ## ✨ Fitur Utama
 
 - 💬 **Ngobrol Santai** – Jelaskan konsep Bela Negara dengan bahasa ringan dan dekat dengan dunia generasi muda.
