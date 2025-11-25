@@ -31,12 +31,3 @@
 - [LangChain](https://python.langchain.com/) – manajemen percakapan & prompt
 - [Google Gemini API](https://ai.google.dev/) – Large Language Model
   
----
-
-## 🚀 Cara Menjalankan Secara Lokal
-
-### 1. Clone repository
-
-```bash
-git clone https://github.com/USERNAME/mentor-bela-negara-id.git
-cd mentor-bela-negara-id
