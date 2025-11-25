@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="screenshot-home.png" alt="Tampilan Mentor Bela Negara ID" width="800">
+  <img src="screenshot-home.jpg" alt="Tampilan Mentor Bela Negara ID" width="800">
 </p>
 
 ---
